@@ -4,7 +4,6 @@
 - What enviormental variables are and how to create them
 - Libraries (base64, requests, hashlib, os)
 - Creating python dictionaries
-  -Assigning a key with a value
 - Encoding and SHA256 in programming
 - response.status.codes
 
